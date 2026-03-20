@@ -1,6 +1,6 @@
 # SIR Model Simulation (Python)
 
-This project was developed as an extension of a C++-based SIR simulation implemented in a university course, improving usability by integrating visualization directly into the simulation.
+This project was developed as an extension of a C++-based SIR simulation implemented in a university course, improving usability by integrating simulation and visualization, enabling faster experimentation and immediate feedback when adjusting parameters.
 
 ---
 
